@@ -264,6 +264,16 @@ docker stop neo4j_container_name
 
 ChatWorks' architecture stands out for its extreme flexibility, allowing business processes to be modified by changing relationships in Neo4j without altering the source code, while simultaneously ensuring scalability and efficiency in handling complex states thanks to LangGraph. This design achieves effective separation of responsibilities by decoupling the user interface, semantic planning, and technical execution, significantly facilitating maintenance, debugging, and continuous evolution of the intelligent agent.
 
+## 📚 References
+
+- LangGraph & LangChain: Chase, H. (2024). LangGraph: Building Stateful, Multi-Actor Applications with LLMs. Recuperado de https://python.langchain.com/docs/langgraph
+
+- Neo4j Graph Database: Neo4j, Inc. (2025). The Neo4j Operations Manual v5. Recuperado de https://neo4j.com/docs/operations-manual/current/
+
+- Streamlit Framework: Streamlit Inc. (2026). Streamlit Documentation: The fastest way to build and share data apps. Recuperado de https://docs.streamlit.io
+
+- Scikit-learn (Cosine Similarity): Pedregosa, F., et al. (2011). Scikit-learn: Machine Learning in Python. Journal of Machine Learning Research.
+
 
 
 
